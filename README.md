@@ -1,9 +1,5 @@
 # 🔐 $$BTPass$$ – Offline USB správca hesiel (.EXE, šifrovaný)
 
-**Verzia:** 1.2v  
-**Dátum vydania:** 21. júna 2025  
-**Autor:** BURGI  
-
 ## 🧰 Čo je $$BTPass$$?
 
 **$$BTPass$$** je bezpečný offline správca hesiel zabalený do jediného `.exe` súboru.  
