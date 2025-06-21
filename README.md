@@ -62,17 +62,16 @@ Cesta sa zapamätá v súbore `config.json`, ktorý je uložený vedľa EXE.
 
 ---
 
+## 👤 Autor
+
+**BURGI**  
+📅 Vytvorené v roku 2025  
+📌 Vytvorené pomocou Python + PyInstaller (`--onefile`)
+
+---
 
 ## ❗ Licencia
 
 **Tento projekt je uzavretý (proprietárny) softvér.**  
 Všetky práva vyhradené © 2025 BURGI.  
 Kopírovanie, šírenie alebo úprava sú zakázané bez výslovného súhlasu.
-
----
-
-## 👤 Autor
-
-**BURGI**  
-📅 Vytvorené v roku 2025  
-📌 Vytvorené pomocou Python + PyInstaller (`--onefile`)
